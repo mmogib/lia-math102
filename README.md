@@ -16,7 +16,7 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
-import:   https://github.com/liaTemplates/Random/README.md
+import:   https://github.com/liaTemplates/Random/
 
 import https://raw.githubusercontent.com/liaTemplates/rextester/master/README.md
 
