@@ -13,8 +13,8 @@ comment:  Try to write a short comment about
           your course, multiline is also okay.
 
 link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
-        https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap
-        https://cdn.jsdelivr.net/gh/mmogib/style.css       
+        https://fonts.googleapis.com/css2?family=Roboto&display=swap
+        https://cdn.jsdelivr.net/gh/mmogib/lia-math102/style.css       
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
