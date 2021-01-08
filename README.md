@@ -38,17 +38,6 @@ translation: Français translations/French.md
 [preview-lia](https://raw.githubusercontent.com/mmogib/lia-math102/master/README.md)
 
 
-```html
-
-<!-- style="display:block" -->
-<div style="display:none">
-
-only visible in LiaScript
-
-</div>
-
-```
-
 <!-- style="display:none" -->
 <div style="display:block" width="200px">
     Not visible in LiaScript, but everywhere else
