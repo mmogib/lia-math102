@@ -14,7 +14,7 @@ comment:  Try to write a short comment about
 
 link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
         https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap
-        ./style.css       
+        https://cdn.jsdelivr.net/gh/mmogib/style.css       
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
