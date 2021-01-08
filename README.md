@@ -1,7 +1,7 @@
 <!--
 author:   Dr. Mohammed Alshahrani
 
-email:    your@mail.org
+email:    mshahrani@kfupm.edu.sa
 
 version:  0.0.1
 
@@ -12,18 +12,23 @@ narrator: US English Male
 comment:  Try to write a short comment about
           your course, multiline is also okay.
 
-link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+        https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap
+        ./style.css       
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
-import:   https://github.com/liaTemplates/Random/
+comments: import:   https://github.com/liaTemplates/Random
 
-import https://raw.githubusercontent.com/liaTemplates/rextester/master/README.md
+import:  https://raw.githubusercontent.com/liaTemplates/rextester/master/README.md
+
 
 
 translation: Deutsch  translations/German.md
 
 translation: Français translations/French.md
+
+
 
 -->
 
@@ -81,6 +86,45 @@ Upon completion of this course, students should be able to
 8. Evaluate the sum of some selected types of series.
 9. Find the interval of convergence and radius of convergence of a power series.
 10. Express a function as a power series.
+
+<!-- style="font-size: 2em;" -->
+[Syllabus](https://mathfiles.kfupm.edu.sa/data/files/mathonly/syllabusData/201/MATH102.pdf)
+
+## Lessons
+
+### Section  
+
+## CSS
+
+This is
+
+<button class="primary">
+<label for="modal-control" class="tertiary large">Show modal</label>
+</button>
+
+<input type="checkbox" id="modal-control" class="modal">
+<div>
+  <div class="card">
+    <label for="modal-control" class="modal-close" ></label>
+    <h3 class="section">Waoo</h3>
+    <p class="section">This is a modal dialog!</p>
+  </div>
+</div>
+
+<p>This is a <mark class="secondary">secondary highlight</mark> and this is a <mark class="tertiary">tertiary highlight</mark>.</p>
+
+
+<div class="card">
+  <div class="section dark">
+
+  rhge is Calculate
+
+  rhge is Calculate
+
+  rhge is Calculate
+
+  </div>
+</div>
 
 ## Quizzes
 
