@@ -5,6 +5,8 @@ email:    mshahrani@kfupm.edu.sa
 
 version:  0.0.1
 
+logo:   ./logo.jpg
+
 language: en
 
 narrator: US English Male
