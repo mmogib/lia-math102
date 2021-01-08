@@ -11,8 +11,8 @@ language: en
 
 narrator: US English Male
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  This is MATH102 course website.
+          I will publish all material related.
 
 link:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
         https://cdn.jsdelivr.net/gh/mmogib/lia-math102/custom.css      
@@ -43,6 +43,43 @@ translation: Français translations/French.md
     Not visible in LiaScript, but everywhere else
 </div>
 
+Test **bold** and <b> HTML bold</b> works also inline
+
+<details>
+
+<summary>$ f(a,b,c) = (a^2+b^2+c^2)^3 $</summary>
+
+$$
+\int_0^1 x^2 dx
+$$
+
+<p>
+Here is the source data that is discussed in the article ...
+</p>
+
+<dl>
+  <dt style="color: red">Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt><b>Markdown in HTML</b></dt>
+  <dd>Does _work_ **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+</details>
+
+Footnote[^1](explanation in one line)=> `[^1](explanation in one line)`
+
+marker[^2]
+
+
+``` matlab Julia.m
+
+% comments
+f(x) = inv(x)
+
+```
+
+[^2]: This is an explanation, than
+      can consist of multiple blocks.
 
 ## Syllabus
 
