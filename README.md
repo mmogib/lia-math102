@@ -5,7 +5,7 @@ email:    mshahrani@kfupm.edu.sa
 
 version:  0.0.1
 
-logo:   https://res.cloudinary.com/mshahrani/image/upload/c_fit,r_29,w_199/a_0/v1609929744/me-in-uot-2018-2.jpg
+logo:   https://res.cloudinary.com/mshahrani/image/upload/v1609929744/me-in-uot-2018-2.jpg
 
 language: en
 
