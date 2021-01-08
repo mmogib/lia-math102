@@ -35,7 +35,7 @@ translation: Français translations/French.md
 
 # MATH102: CALCULUS II
 
-[preview-lia](https://github.com/mmogib/lia-math102/README.md)
+[preview-lia](https://raw.githubusercontent.com/mmogib/lia-math102/master/README.md)
 
 
 ```html
