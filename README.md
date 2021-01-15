@@ -43,10 +43,27 @@ translation: Français translations/French.md
 
 [preview-lia](https://raw.githubusercontent.com/mmogib/lia-math102/master/README.md)
 
+--------------
+Please make note of the following points
+
+* **Code of Conduct** Please fill in  the [Code of Conduct](https://forms.office.com/Pages/ResponsePage.aspx?id=iLC0KX3SKUG5-YY3tZ6ks3AB3lEKGJFGqOnkl9Bm1nNURjI3TUtUSk5GS0ROVTlKSjVISDNWVkg0Ni4u)<!--
+target="_blank"
+--> form. If you have any objections on the terms, please change the section to another section of MATH102.
+* **Class meetings** All classes will be conducted online using [ZOOM](https://kfupm.zoom.us/)<!--
+target="_blank"
+-->.
+* **Class recordings** All classes will be recorded and published on youtube. The links of the recording will be posted in [HERE](#Lessons).
+* **Office Hours** You can book an appointment through [Calendly](https://calendly.com/mshahrani/office-hour)<!--
+target="_blank"
+-->.
+* **CAS**: I will be using a Computer-Algebra-System for this course to help us solve some _CAS_ problems. These are published and can be accessed online here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmogib/math102.git/master)<!--
+target="_blank"
+-->. I will be using python and maybe Julia.
+* **Communication** __Please do not send me emails__<!-- style="color:red;"-->. All communications will through <span style="color: purple;">slack.com</span>. You should have received an invitation email from slack.
+* **Attendance and Grades** You can follow up on your attendance and grades through slack.
 
 
-
-## Syllabus
+## Course Details
 
 
 **The Course Code and Name:** Math 102, Calculus II
@@ -82,10 +99,17 @@ Upon completion of this course, students should be able to
 9. Find the interval of convergence and radius of convergence of a power series.
 10. Express a function as a power series.
 
-<!-- style="font-size: 1.2em; text-decoration: none;" -->
-[Syllabus](https://mathfiles.kfupm.edu.sa/data/files/mathonly/syllabusData/201/MATH102.pdf)
+## Syllabus
 
-## Lessons
+coming soon
+
+## Grading Policy
+
+coming soon
+
+## Chapter 5
+
+### Section  5.1
 
 ### Section  5.2
 
@@ -95,10 +119,16 @@ style = "border: 1px solid red;
         filter: grayscale(20%);"
 -->
 
+### Section  5.3
+
+### Section  5.4
+
+### Section  5.5
+
 ## Quizzes
 
 
-@Random.random(3, true)
+@Random.random(2, true)
 
 
 <div class="random" data-propability="5">
