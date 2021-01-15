@@ -43,13 +43,19 @@ translation: Français translations/French.md
 
 [preview-lia](https://raw.githubusercontent.com/mmogib/lia-math102/master/README.md)
 
+    {{1 Arabic Male}}
+السلام عليكم و رحمة الله و بركاته
+
+    {{2 US English Female }}
+Please make note of the following points    
+
 --------------
 Please make note of the following points
 
 * **Code of Conduct** Please fill in  the [Code of Conduct](https://forms.office.com/Pages/ResponsePage.aspx?id=iLC0KX3SKUG5-YY3tZ6ks3AB3lEKGJFGqOnkl9Bm1nNURjI3TUtUSk5GS0ROVTlKSjVISDNWVkg0Ni4u)<!--
 target="_blank"
 --> form. If you have any objections on the terms, please change the section to another section of MATH102.
-* **Class meetings** All classes will be conducted online using [ZOOM](https://kfupm.zoom.us/)<!--
+* **Class meetings** All classes will be conducted online via [ZOOM](https://kfupm.zoom.us/)<!--
 target="_blank"
 -->.
 * **Class recordings** All classes will be recorded and published on youtube. The links of the recording will be posted in [HERE](#Lessons).
@@ -107,6 +113,15 @@ coming soon
 
 coming soon
 
+## Lessons
+
+- [Chapter 5](#Chapter-5)
+- [Chapter 6](#Chapter-6)
+- [Chapter 7](#Chapter-7)
+- [Chapter 8](#Chapter-8)
+- [Chapter 11](#Chapter-11)
+
+
 ## Chapter 5
 
 ### Section  5.1
@@ -124,6 +139,21 @@ style = "border: 1px solid red;
 ### Section  5.4
 
 ### Section  5.5
+
+## Chapter 6
+ ...
+
+
+## Chapter 7
+  ...
+
+
+## Chapter 8
+   ...
+
+## Chapter 11
+    ...
+
 
 ## Quizzes
 
