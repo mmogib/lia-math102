@@ -41,8 +41,11 @@ translation: Français translations/French.md
 # MATH102: CALCULUS II
 (@today)
 
+Watch this please
+
 [preview-lia](https://raw.githubusercontent.com/mmogib/lia-math102/master/README.md)
 
+!?[introduction](https://youtu.be/2g0bx4OupC0)
 
 
 --------------
