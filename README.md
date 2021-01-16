@@ -43,11 +43,7 @@ translation: Français translations/French.md
 
 [preview-lia](https://raw.githubusercontent.com/mmogib/lia-math102/master/README.md)
 
-    {{1 Arabic Male}}
-السلام عليكم و رحمة الله و بركاته
 
-    {{2 US English Female }}
-Please make note of the following points    
 
 --------------
 Please make note of the following points
@@ -77,7 +73,9 @@ target="_blank"
 *The Course Credit Hours:* 4-0-4 (Three lectures and one recitation session per week.)
 
 **Textbook:** Calculus: Early Transcendentals, 8th edition, by James Stewart, Cengage Learning,
-2016.
+2016. It is available online through WebAssign. Watch how to reach here
+
+!?[Watch how to reach here](https://youtu.be/bGKTy2q5_C0)
 
 **Course Objective:** The objective of the course is to introduce students to the topics of
 definite & indefinite integrals, series, and their applications.
@@ -113,7 +111,13 @@ coming soon
 
 coming soon
 
+## Additional Resources
+
+* [Khan Academy](https://www.khanacademy.org/)<!--target="_blank"-->
+ !?[khan Academy](https://youtu.be/QGagl0qW8MA)
+
 ## Lessons
+
 
 - [Chapter 5](#Chapter-5)
 - [Chapter 6](#Chapter-6)
@@ -123,8 +127,29 @@ coming soon
 
 
 ## Chapter 5
+- [Section 5.1](#Section-5.1)
+- [Section 5.2](#Section-5.2)
+- [Section 5.3](#Section-5.3)
+- [Section 5.4](#Section-5.4)
+- [Section 5.5](#Section-5.5)
 
 ### Section  5.1
+- Sigma Notation
+!?[Sigma Notation](https://youtu.be/fTibnyQRPT4)
+
+
+Questions
+========
+
+** Write $√2+√3 +√4 +√5 +√6 + √7$ in sigma notation. (Choose all correct answers)**
+
+
+    [[ ]] $∑_{k=2}^7 {√i}$
+    [[X]] $∑_{i=2}^7 {√i}$
+    [[X]] $∑_{k=2}^7 {k^{\frac{1}{2}}}$
+    [[ ]] $∑_{k=1}^7 {(1+k)^{\frac{1}{2}}}$
+    [[X]] $∑_{k=1}^6 {(1+k)^{\frac{1}{2}}}$
+
 
 ### Section  5.2
 
@@ -153,84 +178,3 @@ style = "border: 1px solid red;
 
 ## Chapter 11
     ...
-
-
-## Quizzes
-
-
-@Random.random(2, true)
-
-
-<div class="random" data-propability="5">
-
-** 1 stupid question: **
-
-    [( )] answer a
-    [( )] answer b
-    [(X)] Ei äm bäd in inglisch
-
-</div>
-
-<div class="random">
-
-** 2 boring question: **
-
-    [( )] meeh
-    [( )] mah
-    [(X)] MÄH
-
-</div>
-
-<div class="random">
-
-** 3 irrelevant question: **
-
-    [(X)] I like computer science
-    [(X)] I like computer science
-    [(X)] I like computer science
-
-</div>
-
-<div class="random">
-
-** 4 hard question: **
-
-    [( )] yes
-    [( )] no
-    [( )] both
-    [( )] nothing
-    [( )] all (including both and nothing)
-    [(X)] I don't know :(
-
-</div>
-
-<div class="random">
-
-** 5 important question: **
-
-    [[X]] computer science
-    [[X]] math
-    [[X]] english
-    [[X]] TU Berkakademie Freiberg
-</div>
-
-<div class="random">
-
-** 6 interesting question: **
-
-    [[X]] matrices
-    [[ ]] cleaning the appartment
-    [[X]] electrical stuff
-    [[X]] trains
-    [[ ]] sleeping
-
-</div>
-
-<div class="random">
-
-** 7 no question: **
-
-    [(X)] cats
-    [( )] dogs
-
-</div>
