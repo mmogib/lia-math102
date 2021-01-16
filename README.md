@@ -107,8 +107,39 @@ Upon completion of this course, students should be able to
 10. Express a function as a power series.
 
 ## Syllabus
-
-coming soon
+<!--data-type="none"-->
+| Week      | Date          | Section   | Topics |
+|-----------|---------------|---------- |--------|
+|1          |Jan. 17-21     |5.1        | Areas and Distances|
+|           |               |5.2        | The Definite Integral|
+|2          |Jan. 24-28     |5.2        | Continued|
+|           |               |5.3        |The Fundamental Theorem of Calculus|
+|3          |<!--style="font-size:smaller;"-->Jan. 31- Feb. 4 |5.4 |Indefinite Integrals and the Net Change Theorem|
+|           |           |5.5 |The Substitution Rule|
+|4          | Feb. 7-11 |6.1| Areas between Curves|
+|           |           |6.2| Volumes|
+|5          | Feb. 14-18|6.2| Continued|
+|           |           |6.3| Volumes by Cylindrical Shells|
+|6          |Feb. 21-25|6.5| Average Value of a Function|
+|           |           |7.1| Integration by Parts|
+|7          |<!--style="font-size:smaller;"-->Feb. 28- Mar. 4|7.2| Trigonometric Integrals|
+|           |       |7.3 |Trigonometric Substitution|
+|8          |Mar. 7-11|7.4|<!--style="font-size:smaller;"--> Integration of Rational Functions by Partial Fractions+ Exercise 59|
+|           |       |7.5 |Strategy for Integration|
+|9          |Mar. 14-18|7.8 |Improper Integrals (Up to end of Example 8)|
+|           |           |8.1| Arc Length|
+|10| Mar. 21-25|8.2| Area of a Surface of Revolution|
+|||11.1| Sequences|
+|11| <!--style="font-size:10px;"-->Mar. 28- Apr.1 |11.2| Series|
+|12| Apr. 4-8|11.3|The Integral Test and Estimates of Sums|
+|||11.4| The Comparison Tests|
+|13 |Apr. 11-15|11.5| Alternating Series|
+|||11.6| <!--style="font-size:smaller;"-->Absolute Convergence and the Ratio and Root Tests|
+|||11.7| Strategy for Testing Series|
+|14 |Apr. 18-22|11.8| Power Series|
+|||11.9| Representation of Functions as Power Series|
+|15| Apr. 25-29|11.9| Continued|
+|||11.10|Taylor and Maclaurin Series|
 
 ## Grading Policy
 
