@@ -195,6 +195,8 @@ Questions
 - Area and Distance Problem - Part 3
 !?[Part 1](https://youtu.be/truPbsGnWgo)
 
+- [Problem Set 1:](https://www.dropbox.com/s/orh005xzsx8i48o/ProblemSet1.pdf?dl=0)
+
 ### Section  5.2
 
 1. Start watching this video.
