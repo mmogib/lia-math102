@@ -61,9 +61,7 @@ target="_blank"
 * **Office Hours** You can book an appointment through [Calendly](https://calendly.com/mshahrani/office-hour)<!--
 target="_blank"
 -->.
-* **CAS**: I will be using a Computer-Algebra-System for this course to help us solve some _CAS_ problems. These are published and can be accessed online here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmogib/math102.git/master)<!--
-target="_blank"
--->. I will be using python and maybe Julia.
+* **CAS**: I will be using a Computer-Algebra-System for this course to help us solve some _CAS_ problems. These are published and can be accessed online here (**Python**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmogib/math102.git/pythonized)<!--target="_blank"-->, **Julia**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmogib/math102.git/julialized)<!--target="_blank"-->.)
 * **Communication** __Please do not send me emails__<!-- style="color:red;"-->. All communications will through <span style="color: purple;">slack.com</span>. You should have received an invitation email from slack.
 * **Attendance and Grades** You can follow up on your attendance and grades through slack.
 
@@ -184,6 +182,13 @@ Questions
     [[ ]] $∑_{k=1}^7 {(1+k)^{\frac{1}{2}}}$
     [[X]] $∑_{k=1}^6 {(1+k)^{\frac{1}{2}}}$
 
+- Area Problem - Part 1
+!?[Part 1](https://youtu.be/PMq3GMbGn6A)
+
+
+
+- Area Problem - Part 2
+!?[Part 1](https://youtu.be/hVqFXOGSGwk)
 
 ### Section  5.2
 
