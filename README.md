@@ -190,6 +190,11 @@ Questions
 - Area Problem - Part 2
 !?[Part 1](https://youtu.be/hVqFXOGSGwk)
 
+
+
+- Area and Distance Problem - Part 3
+!?[Part 1](https://youtu.be/truPbsGnWgo)
+
 ### Section  5.2
 
 1. Start watching this video.
