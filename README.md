@@ -105,6 +105,7 @@ Upon completion of this course, students should be able to
 10. Express a function as a power series.
 
 ## Syllabus
+The official Syllabus is [here](https://www.dropbox.com/s/p4nsq6hqukk8t7y/Math102-Syllabus-202%20New.pdf?dl=0)<!--target="_blank"-->
 <!--data-type="none"-->
 | Week      | Date          | Section   | Topics |
 |-----------|---------------|---------- |--------|
@@ -141,7 +142,16 @@ Upon completion of this course, students should be able to
 
 ## Grading Policy
 
-coming soon
+| | Percentage | Points |
+|Midterm (In-Person)| 30% | 90  points|
+|Final (In-Person)| 40% | 120  points|
+|Homework (WebAssign)| 15% | 45  points|
+|Classwork (see below) | 15% | 45  points|
+
+Classwork:
+ *  Quizzes:                25 points (through WebAssign)
+ *  In Class Activity:      20 points   
+
 
 ## Additional Resources
 
@@ -150,6 +160,7 @@ coming soon
 
 ## Lessons
 
+All notes used in the recording are available [here](https://www.dropbox.com/sh/srvjzu5tec3nckj/AAAuwXqMJoYP23J-cvboOsQDa?dl=0)<!--target="_blank"-->
 
 - [Chapter 5](#Chapter-5)
 - [Chapter 6](#Chapter-6)
@@ -224,3 +235,14 @@ style = "border: 1px solid red;
 
 ## Chapter 11
     ...
+
+
+## Class Video Recordings
+
+### Monday 18-01-2021
+
+* Section 35:
+!?[Section 35](https://youtu.be/xeuSTlfqYZM)
+
+* Section 36:
+!?[Section 35](https://youtu.be/0fwwW-nRjhQ)
