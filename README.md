@@ -210,11 +210,7 @@ Questions
 
 ### Section  5.2
 
-1. Start watching this video.
-!?[Lesson](https://youtu.be/wJyVuDICljI)<!--
-style = "border: 1px solid red;
-        filter: grayscale(20%);"
--->
+
 
 ### Section  5.3
 
