@@ -206,7 +206,7 @@ Questions
 - Area and Distance Problem - Part 3
 !?[Part 1](https://youtu.be/truPbsGnWgo)
 
-- [Problem Set 1:](https://www.dropbox.com/s/orh005xzsx8i48o/ProblemSet1.pdf?dl=0)
+- [Problem Set 1:](https://github.com/mmogib/lia-math102/problem_sets/ProblemSet1.pdf)
 
 ### Section  5.2
 
