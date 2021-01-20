@@ -242,3 +242,12 @@ Questions
 
 * Section 36:
 !?[Section 35](https://youtu.be/0fwwW-nRjhQ)
+
+
+### Wednesday 20-01-2021
+
+* Section 35:
+!?[Section 35](https://youtu.be/ndtwFuBpPQY)
+
+* Section 36:
+!?[Section 35](https://youtu.be/vW40ntmjFUE)
