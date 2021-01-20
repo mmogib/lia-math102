@@ -207,6 +207,12 @@ Questions
 !?[Part 1](https://youtu.be/truPbsGnWgo)
 
 - [Problem Set 1:](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ProblemSet1.pdf)<!--target="_blank"-->
+Solution
+========
+!?[Solution Part 1](https://youtu.be/lUml-Rb1Dp8)
+!?[Solution Part 2](https://youtu.be/2COqHTAxS_o)
+
+
 
 ### Section  5.2
 
