@@ -215,6 +215,26 @@ Solution
 
 
 ### Section  5.2
+* Part 1
+!?[5.2 Part 1](https://youtu.be/u_HPKd7pivw)
+
+*Question 1:*  $${\large \int_{-4}^{2}f(x) dx =}$$
+
+[[-5]]
+[[?]] area in not the integral in general
+***********************************************************************
+$${\large \int_{-4}^{2}f(x) dx = -A  + B - C = -5+5-5 = -5}$$
+***********************************************************************
+
+
+*Question 2:* The area between the graph and the x-axis from $x=-4$ to $x=2$ is
+
+[[15]]
+
+* Part 2
+!?[5.2 Part 2](https://youtu.be/aSldRxkIi7s)
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2.pdf)<!--target="_blank"-->
 
 
 
