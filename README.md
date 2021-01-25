@@ -267,7 +267,7 @@ $${\large \int_{-4}^{2}f(x) dx = -A  + B - C = -5+5-5 = -5}$$
 !?[Section 35](https://youtu.be/xeuSTlfqYZM)
 
 * Section 36:
-!?[Section 35](https://youtu.be/0fwwW-nRjhQ)
+!?[Section 36](https://youtu.be/0fwwW-nRjhQ)
 
 
 ### Wednesday 20-01-2021
@@ -276,4 +276,13 @@ $${\large \int_{-4}^{2}f(x) dx = -A  + B - C = -5+5-5 = -5}$$
 !?[Section 35](https://youtu.be/ndtwFuBpPQY)
 
 * Section 36:
-!?[Section 35](https://youtu.be/vW40ntmjFUE)
+!?[Section 36](https://youtu.be/vW40ntmjFUE)
+
+
+### Monday 25-01-2021
+
+* Section 35:
+!?[Section 35](https://youtu.be/myBRoUiVIZY)
+
+* Section 36:
+!?[Section 36](https://youtu.be/nWktQH6lDYU)
