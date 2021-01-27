@@ -240,7 +240,27 @@ $${\large \int_{-4}^{2}f(x) dx = -A  + B - C = -5+5-5 = -5}$$
 
 
 ### Section  5.3
+!?[Section 5.3](https://youtu.be/VUeNEleDgLM)
 
+*Question 1*
+
+In reference to the first problem indicated in the video, Choose the correct answer
+
+    [( )] (A) $F(0)$
+    [( )] (B) $F(1)$
+    [(X)] (B) $F(2)$
+    [( )] (B) $F(3)$
+    [( )] (B) $F(4)$
+
+
+*Question 2*
+If $\displaystyle y=\int_{\cos x}^{\sin(3x)} \sqrt{t^2+3} dt$  then $\frac{dy}{dx}$ at $x=0$ is equal to
+
+    [( )] (a) $\sqrt{3}$
+    [( )] (b) $\sqrt{3}-\sqrt{1+3}$
+    [( )] (c) $-\sqrt{1+3}$
+    [(X)] (d) $3\sqrt{3}$
+    [( )] (e) $3\sqrt{3}-\sqrt{1+3}$
 ### Section  5.4
 
 ### Section  5.5
@@ -287,3 +307,14 @@ $${\large \int_{-4}^{2}f(x) dx = -A  + B - C = -5+5-5 = -5}$$
 
 * Section 36:
 !?[Section 36](https://youtu.be/nWktQH6lDYU)
+
+
+
+
+### Wednesday 27-01-2021
+
+* Section 35:
+!?[Section 35](https://youtu.be/G7pN9e07hGc)
+
+
+* Section 36: Same as Section 35
