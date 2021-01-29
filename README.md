@@ -261,7 +261,14 @@ If $\displaystyle y=\int_{\cos x}^{\sin(3x)} \sqrt{t^2+3} dt$  then $\frac{dy}{d
     [( )] (c) $-\sqrt{1+3}$
     [(X)] (d) $3\sqrt{3}$
     [( )] (e) $3\sqrt{3}-\sqrt{1+3}$
+
+
+* [Problem Set (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps3-1.pdf)<!--target="_blank"-->
+
 ### Section  5.4
+!?[Section 5.4](https://youtu.be/-SUsnt7EIng)
+
+* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps4-1.pdf)<!--target="_blank"-->
 
 ### Section  5.5
 
