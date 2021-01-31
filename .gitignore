@@ -138,7 +138,6 @@ dmypy.json
 cython_debug/
 
 
-/problem_set/ps/midterm/
+midterm/
 
 #build
-/problem_set/ps/build/
