@@ -234,10 +234,10 @@ $${\large \int_{-4}^{2}f(x) dx = -A  + B - C = -5+5-5 = -5}$$
 * Part 2
 !?[5.2 Part 2](https://youtu.be/RyJZv87j7sc)
 
-* [Problem Set (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2.pdf)<!--target="_blank"-->    [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2-solution.pdf)<!--target="_blank"-->
+* [Problem Set (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2.pdf)<!--target="_blank"-->   |  [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2-solution.pdf)<!--target="_blank"-->
 
-* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2-2.pdf)<!--target="_blank"-->
-
+* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2-2.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps2-2-solution)<!--target="_blank"--> |
+!?[Solution](https://youtu.be/hrNWmkMnNd0)
 
 ### Section  5.3
 !?[Section 5.3](https://youtu.be/VUeNEleDgLM)
