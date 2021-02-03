@@ -334,3 +334,13 @@ If $\displaystyle y=\int_{\cos x}^{\sin(3x)} \sqrt{t^2+3} dt$  then $\frac{dy}{d
 
 * Section 36:
 !?[Section 36](https://youtu.be/0pxgn9rVsqo)
+
+
+### Wednesday 03-02-2021
+
+* Section 35:
+!?[Section 35](https://youtu.be/56JMzGbsOcA)
+
+
+* Section 36:
+!?[Section 36](https://youtu.be/3T6LejPSzRA)
