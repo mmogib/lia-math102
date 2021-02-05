@@ -271,6 +271,22 @@ If $\displaystyle y=\int_{\cos x}^{\sin(3x)} \sqrt{t^2+3} dt$  then $\frac{dy}{d
 * [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps4-1.pdf)<!--target="_blank"-->
 
 ### Section  5.5
+!?[Section 5.5](https://youtu.be/y7HpCUWPUPY)
+
+*Question 1:*  $${\large \int 4x^3 dy = x^4 + C}$$.
+
+[( )] True
+[(X)] False
+[[?]] $dy$ ?
+***********************************************************************
+$${\large \int 4x^3 dy =4x^3 y + C}$$
+
+Because the antiderivate is with respect to $y$ not $x$.
+***********************************************************************
+
+
+* [Problem Set (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps5-1.pdf)<!--target="_blank"-->
+
 
 ## Chapter 6
  ...
