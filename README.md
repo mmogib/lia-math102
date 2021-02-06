@@ -289,7 +289,22 @@ Because the antiderivate is with respect to $y$ not $x$.
 
 
 ## Chapter 6
- ...
+
+ * [Section 6.1](#Section-6.1)
+ * [Section 6.2](#Section-6.2)
+ * [Section 6.3](#Section-6.3)
+ * [Section 6.5](#Section-6.5)
+
+### Section 6.1
+!?[Section 6.1](https://youtu.be/wDZ0_Oakamk)
+
+* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6-1.pdf)<!--target="_blank"-->
+
+### Section 6.2
+
+### Section 6.3
+
+### Section 6.5
 
 
 ## Chapter 7
