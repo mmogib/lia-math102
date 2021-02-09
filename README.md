@@ -268,7 +268,7 @@ If $\displaystyle y=\int_{\cos x}^{\sin(3x)} \sqrt{t^2+3} dt$  then $\frac{dy}{d
 ### Section  5.4
 !?[Section 5.4](https://youtu.be/-SUsnt7EIng)
 
-* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps4-1.pdf)<!--target="_blank"-->
+* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps4-1.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps4-1-solution.pdf)<!--target="_blank"-->
 
 ### Section  5.5
 !?[Section 5.5](https://youtu.be/y7HpCUWPUPY)
@@ -285,7 +285,7 @@ Because the antiderivate is with respect to $y$ not $x$.
 ***********************************************************************
 
 
-* [Problem Set (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps5-1.pdf)<!--target="_blank"-->
+* [Problem Set (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps5-1.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps5-1-solution.pdf)<!--target="_blank"-->
 
 
 ## Chapter 6
