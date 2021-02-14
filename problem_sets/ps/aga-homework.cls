@@ -21,6 +21,9 @@
 
 \DeclareStringOption[202]%
   {term}
+
+\DeclareStringOption[]%
+  {topic}
 \DeclareStringOption[2IL50 Data Structures]%
   {course}
 \DeclareStringOption[3]%
@@ -143,7 +146,7 @@
 \pagestyle{fancy}
 
 % ensure that the title is inserted in the document
-\title{\vspace{-2\baselineskip} Problem Set \agahomework@assignment\vspace{-2\baselineskip}}
+\title{\vspace{-2\baselineskip} Problem Set \agahomework@assignment \\ \agahomework@topic \vspace{-2\baselineskip}}
 %\author{\aga@authorsProcessed}
 \date{}
 \AtBeginDocument{\maketitle}

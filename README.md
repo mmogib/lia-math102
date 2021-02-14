@@ -298,10 +298,16 @@ Because the antiderivate is with respect to $y$ not $x$.
 ### Section 6.1
 !?[Section 6.1](https://youtu.be/wDZ0_Oakamk)
 
-* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6-1.pdf)<!--target="_blank"-->
+* [Problem Set (~Wednesday~) (Monday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6-1.pdf)<!--target="_blank"-->
 
 ### Section 6.2
 
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* [Section 6.2](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Volumes by Method of Cross-Sections` and the exercises after.
+
+
+* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7-1.pdf)<!--target="_blank"-->
 ### Section 6.3
 
 ### Section 6.5
