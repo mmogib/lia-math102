@@ -140,17 +140,17 @@ The official Syllabus is [here](https://www.dropbox.com/s/p4nsq6hqukk8t7y/Math10
 |15| Apr. 25-29|11.9| Continued|
 |||11.10|Taylor and Maclaurin Series|
 
-## Grading Policy
+## Grading Policy (Revised)
 
 | | Percentage | Points |
-|Midterm (In-Person)| 30% | 90  points|
-|Final (In-Person)| 40% | 120  points|
-|Homework (WebAssign)| 15% | 45  points|
-|Classwork (see below) | 15% | 45  points|
+|Midterm (~In-Person~, online)| ~30%~ 20% | ~90~ *75*  points|
+|Final (In-Person)| 40% | *120*  points|
+|Homework (WebAssign)| 15% | *45*  points|
+|Classwork (see below) | ~15%~ 20% | ~45~ *60*  points|
 
 Classwork:
- *  Quizzes:                25 points (through WebAssign)
- *  In Class Activity:      20 points   
+ *  Quizzes:                ~25~ *35* points (through WebAssign)
+ *  In Class Activity:      ~20~ *25* points   
 
 
 ## Additional Resources
