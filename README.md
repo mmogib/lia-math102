@@ -308,14 +308,15 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Section 6.2](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Volumes by Method of Cross-Sections` and the exercises after.
 
 
-* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7-1.pdf)<!--target="_blank"-->
+* [Problem Set (Wednesday)](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7-1.pdf)<!--target="_blank"-->  | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7-1-solution.pdf)<!--target="_blank"-->
+
 ### Section 6.3
 Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
 
 * [Section 6.3](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Volumes by Cylindrical Shells` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6.3.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6.3.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6.3-solution.pdf)<!--target="_blank"-->
 
 ### Section 6.5
 
@@ -324,7 +325,7 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Section 6.5](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Average Value of a Function` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6.5.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6.5.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps6.5-solution.pdf)<!--target="_blank"-->
 
 ## Chapter 7
 
