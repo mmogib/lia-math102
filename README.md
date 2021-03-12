@@ -143,7 +143,7 @@ The official Syllabus is [here](https://www.dropbox.com/s/p4nsq6hqukk8t7y/Math10
 ## Grading Policy (Revised)
 
 | | Percentage | Points |
-|Midterm (~In-Person~, online)| ~30%~ 20% | ~90~ *75*  points|
+|Midterm (~In-Person~, online)| ~30%~ 25% | ~90~ *75*  points|
 |Final (In-Person)| 40% | *120*  points|
 |Homework (WebAssign)| 15% | *45*  points|
 |Classwork (see below) | ~15%~ 20% | ~45~ *60*  points|
@@ -366,7 +366,7 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Section 7.3](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Trigonometric Substitution` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.3.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.3.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.3-solution.pdf)<!--target="_blank"-->
 
 ### Section 7.4
 
