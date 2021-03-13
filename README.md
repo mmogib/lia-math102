@@ -379,8 +379,16 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 ### Section 7.5
 
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.5.pdf)<!--target="_blank"-->
+
 
 ### Section 7.8
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* [Section 7.8](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Improper Integrals` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8.pdf)<!--target="_blank"-->
 
 ## Chapter 8
    ...
