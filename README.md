@@ -391,7 +391,7 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8-solution.pdf)<!--target="_blank"-->
 
 ## Revision: E1
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/psE1.REV.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps.E1.REV.pdf)<!--target="_blank"-->
 
 
 ## Chapter 8
