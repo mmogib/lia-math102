@@ -379,7 +379,7 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 ### Section 7.5
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.5.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.5.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.5-solution.pdf)<!--target="_blank"-->
 
 
 ### Section 7.8
@@ -388,7 +388,11 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Section 7.8](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `Improper Integrals` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8-solution.pdf)<!--target="_blank"-->
+
+## Revision: E1
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/psE1.REV.pdf)<!--target="_blank"-->
+
 
 ## Chapter 8
    ...
