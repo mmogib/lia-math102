@@ -391,7 +391,7 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps7.8-solution.pdf)<!--target="_blank"-->
 
 ## Revision: E1
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps.E1.REV.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps.E1.REV.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps.E1.REV-solution.pdf)<!--target="_blank"-->
 
 
 ## Chapter 8
@@ -403,7 +403,8 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
  * [Section 8.1 and 8.2](https://blackboard.kfupm.edu.sa/courses/1/DAD-MATH-102-VIDEO-ONLINE-production/content/_1133669_1/index.html)<!--target="_blank"--> Watch the video on `8.1 Arc Length and 8.2 Surface Area` and the exercises after.
 
- * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps8.1.pdf)<!--target="_blank"-->
+ * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps8.1.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps8.1-solution.pdf)<!--target="_blank"-->
+
 
 ## Chapter 11
     ...
