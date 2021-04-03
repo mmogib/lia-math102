@@ -407,7 +407,38 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 
 ## Chapter 11
-    ...
+
+* [Section 11.1](#section-11.1)
+* [Section 11.2](#section-11.2)
+* [Section 11.3](#section-11.3)
+* [Section 11.4](#section-11.4)
+* [Section 11.5](#section-11.5)
+* [Section 11.6](#section-11.6)
+* [Section 11.7](#section-11.7)
+* [Section 11.8](#section-11.8)
+* [Section 11.9](#section-11.9)
+* [Section 11.10](#section-11.10)
+
+
+### Section 11.1
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Sequences` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.1.pdf)<!--target="_blank"-->
+
+
+
+### Section 11.2
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Series` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.2.pdf)<!--target="_blank"-->
+
+
 
 
 ## Class Video Recordings
