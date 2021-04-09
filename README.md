@@ -428,6 +428,10 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.1.pdf)<!--target="_blank"-->
 
+SOLUTION
+========
+!?[Solution 11.1](https://youtu.be/vX3773SkQSA)
+
 
 
 ### Section 11.2
@@ -437,6 +441,11 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.2.pdf)<!--target="_blank"-->
+
+
+SOLUTION
+========
+!?[Solution 11.2](https://youtu.be/b1Uc3jLGy6A)
 
 
 
