@@ -426,7 +426,8 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * Watch the video on `Sequences` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.1.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.1.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.1-solution.pdf)<!--target="_blank"-->
+
 
 SOLUTION
 ========
@@ -440,12 +441,33 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * Watch the video on `Series` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.2.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.2.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.2-solution.pdf)<!--target="_blank"-->
 
 
 SOLUTION
 ========
 !?[Solution 11.2](https://youtu.be/b1Uc3jLGy6A)
+
+
+### Section 11.3
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Integral Test` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.3.pdf)<!--target="_blank"-->
+
+
+
+### Section 11.4
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Comparison Tests` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.4.pdf)<!--target="_blank"-->
+
+
 
 
 
