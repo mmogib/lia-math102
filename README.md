@@ -455,7 +455,8 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * Watch the video on `Integral Test` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.3.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.3.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.3-solution.pdf)<!--target="_blank"-->
+
 
 
 
@@ -465,9 +466,14 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * Watch the video on `Comparison Tests` and the exercises after.
 
 
-* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.4.pdf)<!--target="_blank"-->
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.4.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.4-solution.pdf)<!--target="_blank"-->
 
 
+
+
+SOLUTION
+========
+!?[Solution 11.4](https://youtu.be/81bWZuTdZJQ)
 
 
 
