@@ -498,6 +498,16 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * Problem Set: Solve as much as you can from the list of exercises.
 
 
+### Section 11.8
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Power Series ` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.8.pdf)<!--target="_blank"-->
+
+
+
 
 ## Class Video Recordings
 
