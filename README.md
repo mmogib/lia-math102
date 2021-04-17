@@ -489,6 +489,16 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 
 
+### Section 11.7
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Strategy for Testing Series` and the exercises after.
+
+
+* Problem Set: Solve as much as you can from the list of exercises.
+
+
+
 ## Class Video Recordings
 
 ### Monday 18-01-2021
