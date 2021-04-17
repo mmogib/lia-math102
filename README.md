@@ -469,11 +469,22 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.4.pdf)<!--target="_blank"--> | [Solution](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.4-solution.pdf)<!--target="_blank"-->
 
 
+### Section 11.5
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Alternating Series and Absolute Convergence` and the exercises after.
 
 
-SOLUTION
-========
-!?[Solution 11.4](https://youtu.be/81bWZuTdZJQ)
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.5.pdf)<!--target="_blank"-->
+
+
+### Section 11.6
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `The Ratio and Root Tests` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.6.pdf)<!--target="_blank"-->
 
 
 
