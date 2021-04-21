@@ -507,6 +507,22 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.8.pdf)<!--target="_blank"-->
 
 
+### Section 11.9
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Representation of Functions as Power Series ` and the exercises after.
+
+
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.9.pdf)<!--target="_blank"-->
+
+
+### Section 11.10
+Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
+
+* Watch the video on `Taylor and Maclaurin Series ` and the exercises after.
+
+
+
 
 
 ## Class Video Recordings
