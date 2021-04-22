@@ -5,8 +5,8 @@
   % quartile (default: 3)
   quartile = {{2}},
   % assignment number/name (default: 1)
-  assignment = 24,%Monday, %Wednesday,
-  topic = {{11.8: Power Series}},
+  assignment = 25,%Monday, %Wednesday,
+  topic = {{11.9: Represenation of functions as Power Series}},
   % student name (default: Some One)
   %name = {{Some One ; Other Person}},
   % student number, NOT S-number (default: 0123456)
@@ -62,22 +62,17 @@
   \end{tabular}
   }
 \end{center}
-%
-%\fbox{
-%\begin{minipage}{\textwidth}
-%
-%\mbox{}
-%
-%\vspace{1mm}
-%If $\displaystyle s=\sum (-1)^{n-1}b_n$ where $b_n>0$ is the sum of an alternating series that satisfies
-%\[
-%\displaystyle
-%\text{(i)} \; b_{n+1}\leq b_n \quad \text{and} \quad \text{(ii)} \; \lim_{n\to \infty}b_n = 0
-%\]
-%then
-%\[
-%|R_n|=|s-s_n|\leq b_{n+1}
-%\]
+
+\fbox{
+\begin{minipage}{\textwidth}
+
+\mbox{}
+\vspace{1mm}
+\[
+\displaystyle
+\frac{1}{1-x}=1+x+x^2+x^4+\cdots =\sum_{n=0}^{\infty}x^n, \qquad |x|< 1
+\]
+
 %\vspace{2mm}
 %\hrule
 %\vspace{2mm}
@@ -86,26 +81,41 @@
 %\hrule
 %\vspace{2mm}
 %A series $\displaystyle \sum a_n$ is called {\bf \emph{conditionally convergent}} if $\displaystyle \sum a_n$ converges but $\displaystyle \sum |a_n|$ diverges.
-%
-%\end{minipage}
-%}
+
+\end{minipage}
+}
 
 \newpage
 
-\problem Find the radius of convergence and interval of convergence of the power series $\displaystyle \sum_{n=1}^{\infty}\frac{x^{n}}{n3^n}$.
+\problem Find a power series representation for the function and determine the interval of convergence $\displaystyle f(x)=\frac{x}{1+x}$.
 
 \newpage
 
-\problem Find the radius of convergence and interval of convergence of the power series $\displaystyle \sum_{n=0}^{\infty}\frac{(x-2)^{n}}{n^2+1}$.
+\problem Find a power series representation for the function and determine the interval of convergence $\displaystyle f(x)=\frac{5}{1-4x^2}$.
 
 \newpage
 
-\problem Find the radius of convergence and interval of convergence of the power series $\displaystyle \sum_{n=1}^{\infty}\frac{(x-2)^{n}}{n^n}$.
+\problem Find a power series representation for the function and determine the interval of convergence $\displaystyle f(x)=\frac{5}{1-4x^2}$.
 
 \newpage
 
-\problem Find the radius of convergence and interval of convergence of the power series $\displaystyle \sum_{n=1}^{\infty}n!(2x-1)^n $.
+\problem Find a power series representation for the function and determine the interval of convergence $\displaystyle f(x)=\frac{x}{(1+4x)^2}$.
 
+\newpage
+
+\problem Find a power series representation for the function and determine the interval of convergence $\displaystyle f(x)=\ln(5-x)$.
+
+\newpage
+
+\problem Find a power series representation for the function and determine the interval of convergence $\displaystyle f(x)=x^2\tan^{-1}(x^3)$.
+
+\newpage
+
+\problem Evaluate the indefinite integral as a power series. What is the radius of convergence?
+\[
+\displaystyle
+\int \frac{\tan^{-1}x}{x} dx
+\]
 
 \newpage
 \afterpage{\null\newpage}
