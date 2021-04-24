@@ -521,6 +521,8 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 
 * Watch the video on `Taylor and Maclaurin Series ` and the exercises after.
 
+* [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.10.pdf)<!--target="_blank"-->
+
 
 
 
