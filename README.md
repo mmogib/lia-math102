@@ -478,6 +478,11 @@ Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.s
 * [Problem Set](https://github.com/mmogib/lia-math102/blob/master/problem_sets/ps/ps11.5.pdf)<!--target="_blank"-->
 
 
+SOLUTION
+========
+!?[Solution 11.5](https://youtu.be/WTZ14OzbXsI)
+
+
 ### Section 11.6
 Please enroll in this online course. Click [HERE](https://blackboard.kfupm.edu.sa/webapps/blackboard/content/listContent.jsp?course_id=_33864_1&content_id=_499550_1)<!--target="_blank"--> to enroll.
 
